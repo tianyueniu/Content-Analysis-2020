@@ -15,3 +15,5 @@ We answered this question by performing:
 2) Word Embedding Analysis: look at changes in our understanding of specific topics in the past 5 decades
 3) Network Analysis: focus on Alzheimer, evaluate the progresses made in in Alzheiemr research
 4) Text Generation: examine if corpora built from different period's data would generate different psuedo abstract.
+
+Large scale computing techniques (Apache Spark & Amazon EMR) were used to perform the above analyses.
